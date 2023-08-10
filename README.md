@@ -1,6 +1,7 @@
 # Ecuaciones de Segundo Grado
 
 ## Profesora: Denise Cruz
+## UNAM
 
 ### Objetivo: Es un programa que ayuda a entender el comportamiento de las ecuaciones de segundo grado.
 ### Problemática: Realizar un programa que ayude a resolver ecuaciones de segundo grado, con el que identificaremos las raíces de la ecuación y la parábola que forma, utilizando la interfaz gráfica de Python.
